@@ -17,4 +17,6 @@ uses 0 resmon as it mainly uses popcycle.dat
 want some npcs to spawn? edit he popcyle.dat file
 
 
-SUPPORT: None its pretty self explanatory script
+SUPPORT: None its pretty self explanatory script however if something is not working join and ping me in the QBOX discord Server
+
+https://discord.gg/qbox
