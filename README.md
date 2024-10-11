@@ -1,5 +1,7 @@
 # removeallnpcsandscenarios
 
+**Standalone** does not require any framework
+
 What this resource does:
 
 - disables all NPC spawning including npcs in vehicles and walking around npcs
