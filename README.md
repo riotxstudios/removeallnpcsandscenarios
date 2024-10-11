@@ -23,5 +23,8 @@ SUPPORT: None its pretty self explanatory script however if something is not wor
 
 https://discord.gg/qbox
 
+CREDITS AND LICENSE 
 
 I do not take credits for this script I took someone else's post and modified it to my own needs adding way more features, I decided to release my version to help others
+
+Feel free to modify this script to your own needs you can take parts of it and add it to your own scripts.
