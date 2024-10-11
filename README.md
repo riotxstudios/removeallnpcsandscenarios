@@ -2,11 +2,11 @@
 
 What this resource does:
 
-disables all NPC spawning including npcs in vehicles and walking around npcs
-disables many scenarios that include spawning npcs in areas 
-disables ambient audio example: Ammu nation gunfire,Construction site noise, traffic jam noises
-disables the gta5 native dispatch sounds in police vehicles (including custom)
-disables the music played when in an aircraft 
+- disables all NPC spawning including npcs in vehicles and walking around npcs
+- disables many scenarios that include spawning npcs in areas 
+- disables ambient audio example: Ammu nation gunfire,Construction site noise, traffic jam noises
+- disables the gta5 native dispatch sounds in police vehicles (including custom)
+- disables the music played when in an aircraft 
 
 
 multiple versions of this script will be released
